@@ -1,2 +1,0 @@
-# libroo-
-Marketplace libri scolastici
