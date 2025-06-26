@@ -1,0 +1,1 @@
+// JS simulato (può essere espanso in seguito)
